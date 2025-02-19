@@ -1,0 +1,9 @@
+[package]
+name = "smol"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+jwalk = "0.8.1"
+shellexpand = "3.1.0"

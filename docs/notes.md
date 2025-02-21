@@ -3,6 +3,7 @@
 - Suggest empty Trash if low space remains
 - Suggest compressions
 - Suggest removing Rust targets
+- Suggest `sudo ~/.cargo/bin/czkawka_cli dup -D HARD -d ~`
 
 # Optimizable extensions
 - Audio: mp3, aac, opus, vorbis
